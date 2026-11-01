@@ -32,8 +32,9 @@ nav {
 
 .pages {
     display: flex;
+    justify-content: space-around;
     list-style: none;
-    gap: 2rem;
+    gap: 1rem;
     margin: 0;
     padding: 0;
 }
@@ -68,6 +69,7 @@ a:hover {
 
 #intro {
     font-size: 1.2rem;
+    background-color:  rgba(5, 20, 45, 0.75);
 }
 
 .products {
@@ -90,11 +92,11 @@ a:hover {
 }
 
 .product img {
-    width: 60%;
+    width: 50%;
 }
 
 #fish {
-    width: 45%;
+    width: 35%;
 }
 .productinfo {
     padding: 1.5rem;
