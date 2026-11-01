@@ -33,7 +33,7 @@ nav {
 .pages {
     display: flex;
     list-style: none;
-    gap: 0.5rem;
+    gap: 1rem;
     margin: 0;
     padding: 0;
 }
@@ -112,7 +112,7 @@ a:hover {
 }
 
 #map {
-    margin-top: 7rem;
+    margin-top: 2rem;
     width: 70%
 }
 
