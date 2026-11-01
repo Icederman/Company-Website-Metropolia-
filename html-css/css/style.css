@@ -70,6 +70,7 @@ a:hover {
 #intro {
     font-size: 1.2rem;
     background-color:  rgba(5, 20, 45, 0.75);
+    padding: 0.5rem;
 }
 
 .products {
