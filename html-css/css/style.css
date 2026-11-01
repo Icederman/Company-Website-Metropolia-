@@ -33,7 +33,7 @@ nav {
 .pages {
     display: flex;
     list-style: none;
-    gap: 1rem;
+    gap: 2rem;
     margin: 0;
     padding: 0;
 }
@@ -60,7 +60,7 @@ a:hover {
 }
 
 #mainimg {
-    width: 45rem;
+    width: 30rem;
     max-width: 90%;
     height: auto;
 }
