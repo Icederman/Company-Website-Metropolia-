@@ -58,6 +58,7 @@ a:hover {
 
 #name {
     margin-bottom: 0;
+    background-color: rgba(5, 20, 45, 0.75);
 }
 
 #mainimg {
@@ -112,6 +113,7 @@ a:hover {
 
 .contact-info {
     font-size: 1.2rem;
+    background-color: rgba(5, 20, 45, 0.75);
 }
 
 #map {
